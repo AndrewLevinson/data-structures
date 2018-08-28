@@ -1,2 +1,3 @@
-# data-structures-assignments
-My assignments for the data structures class 
+# data-structures
+
+My assignments for the data structures class. Each weekly assignment has it's own directory.
