@@ -41,7 +41,7 @@ for (i = 0; i < pageNumber.length; i++) {
 }
 ```
 
-The only change to the original code here is to replace the hardcoded url with the `${pageNunber[i]}` so it runs for each unique url in the array.
+The only change to the original code here is to replace the hardcoded url and the file name with the `${pageNunber[i]}` so it runs for each unique url in the array.
 
 #### 3. Handle Control Flow
 
@@ -51,14 +51,13 @@ While there are many ways in JS to solve this (callbacks, promises, async/await)
 
 ```javascript
 try {
-  throw i; // generates an exception
+  throw i;
 } catch (i) {
-  // statements to handle any exceptions
   // run all my code in here
 }
 ```
 
-Try, throw, catch is intended to be used to handle custom errors when running code. First, it tries something and will `throw` an error if it doesn't work. That error is passed into a catch block which executes some code. Additionally, like in the code above, if the only thing in the `try` block is a `throw` statement, it guarantees an "error."
+Try, throw, catch is intended to be used to handle custom errors when running code. First, it tries something and will `throw` an error if it doesn't work. That error is passed into a `catch` block which executes some code. Additionally, like in the code above, if the only thing in the `try` block is a `throw` statement, it guarantees an "error."
 
 Let's look at the finished `for` loop code to see why this works:
 
@@ -83,9 +82,9 @@ for (i = 0; i < pageNumber.length; i++) {
 }
 ```
 
-Basically, I'm forcing the code to `throw` an error and passing `i` to the `catch` block. Since each iteration of the loop is forced to error, the `catch` will run for every iteration of the loop regardless of the speed of the code inside the `catch` block. It doesn't stop JS from running asynchronously – however, it ensures each request is made.
+Basically, I'm forcing the `try` block to `throw` an error and passing `i` to the `catch` block. Since each iteration of the loop is **forced** to error, the `catch` will run for every iteration of the loop regardless of the speed of the request inside it. It doesn't stop JS from running asynchronously (it doesn't slow it down at all) **and** it ensures each request is made.
 
-_Also, I'm not sure of this but I believe it's as performant as possible because it will still asynchronously make all 10 requests as fast as the for loop runs without having to wait for each request to return. We can check this by logging out the pageNumber[i] for each request. It shows that the pages are not sequential_
+_We can check this by logging out the pageNumber[i] for each request. It shows that the pages are not sequential_
 
 I'm not sure if this `try throw catch` solution is considered "hacky" or clever...but for now it works and I believe it's semantic AND performant.
 
