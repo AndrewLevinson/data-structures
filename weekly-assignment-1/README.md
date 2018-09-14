@@ -86,6 +86,6 @@ Basically, I'm forcing the `try` block to `throw` an error and passing `i` to th
 
 _We can check this by logging out the pageNumber[i] for each request. It shows that the pages are not sequential_
 
-I'm not sure if this `try throw catch` solution is considered "hacky" or clever...but for now it works and I believe it's semantic AND performant.
+I'm not sure if this `try throw catch` solution is considered "hacky" or clever...but for now it works and I believe it's readable AND performant.
 
 ---
