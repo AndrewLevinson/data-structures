@@ -13,18 +13,18 @@ const $ = cheerio.load(content);
 // establish container variable for text
 const table = [];
 
+// scrape txt file for html address elements
 $("tbody")
-  .last() // last table contains addresses
+  .last() // last table on page contains addresses
   .children() // find table rows
   // for every td in tr
   .each((i, elem) => {
     table[i] =
       $(elem)
         .children()
-        .first() // find first table cell
-        .text()
-        .trim() + "\n"; // try to clean it up a little with trim
+        .first() // only first table td has address
+        .text() + "\n";
   });
 
 // write to file
-fs.writeFileSync("data/aaAddress.txt", table);
+fs.writeFileSync("data/08address.txt", table);

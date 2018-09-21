@@ -4,10 +4,29 @@
 
 The process for weekly assignment 2
 
-1. something
-2. something
-3. something
+1. Inspect html for AA Meeting page 8 to determine structure (or lack of)
+2. Learn enough Cheerio syntax to traverse the document
+3. Write a code block to find the table cell with the address for each meeting
+4. Save address into new text file '08addresses.txt'
 
 ---
 
-#### 1. something
+### Thoughts
+
+- While I was able to locate and and grab the entire table cell (td) for each address successfully, I struggled with pulling out just the address cleanly. It appears the address itself isn't inside of any html tag at all (just free text) so it's hard to grab onto.
+- Because of this, the text in the file is very messy. A lot of blank spaces, line breaks, and other pieces of text that also aren't in elements so they couldn't be excluded with cheerio.
+- Additionally, if I were to explore this more I would try to create a json structure for saving out the addresses like something below:
+
+```javascript
+"meeting": [
+    {
+    'name':'meeting name 1',
+    'address': '123 main street',
+    'details':'Topic saturday, etc.'
+    },
+]
+```
+
+But first I would need to clean up the strings.
+
+---
