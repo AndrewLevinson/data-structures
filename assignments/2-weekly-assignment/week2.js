@@ -19,11 +19,13 @@ $("tbody")
   .children() // find table rows
   // for every td in tr
   .each((i, elem) => {
-    table[i] =
-      $(elem)
-        .children()
-        .first() // only first table td has address
-        .text() + "\n";
+    table[i] = $(elem)
+      .children()
+      .first()
+      .html()
+      .split("<br>")[2]
+      .split(",")[0]
+      .trim();
   });
 
 // write to file
