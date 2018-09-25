@@ -1,0 +1,40 @@
+[
+  {
+    "version": "4.01",
+    "TransactionId": "229fe03e-f5d6-4ee6-8ee6-76bf6da511b1",
+    "Version": "4.01",
+    "QueryStatusCodeValue": "200",
+    "FeatureMatchingResultType": "Success",
+    "FeatureMatchingResultCount": "5",
+    "TimeTaken": "0.5781286",
+    "ExceptionOccured": "False",
+    "Exception": "",
+    "InputAddress": {
+      "StreetAddress": "240 W 145TH ST New York NY ",
+      "City": "New York",
+      "State": "NY",
+      "Zip": ""
+    },
+    "OutputGeocodes": [
+      {
+        "OutputGeocode": {
+          "Latitude": "40.8222189",
+          "Longitude": "-73.9408621",
+          "NAACCRGISCoordinateQualityCode": "00",
+          "NAACCRGISCoordinateQualityType": "AddressPoint",
+          "MatchScore": "97.3372781065089",
+          "MatchType": "Relaxed;Soundex",
+          "FeatureMatchingResultType": "Success",
+          "FeatureMatchingResultCount": "1",
+          "FeatureMatchingGeographyType": "Parcel",
+          "RegionSize": "0",
+          "RegionSizeUnits": "Meters",
+          "MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+          "ExceptionOccured": "False",
+          "Exception": "",
+          "ErrorMessage": ""
+        }
+      }
+    ]
+  }
+]

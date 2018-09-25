@@ -11,7 +11,7 @@ const content = fs.readFileSync("data/08.txt");
 const $ = cheerio.load(content);
 
 // establish container variable for text
-const table = [];
+const meetings = [];
 
 // scrape txt file for html address elements
 $("tbody")
@@ -19,14 +19,14 @@ $("tbody")
   .children() // find table rows
   // for every td in tr
   .each((i, elem) => {
-    table[i] = $(elem)
+    meetings[i] = $(elem)
       .children()
       .first()
       .html()
       .split("<br>")[2]
-      .split(",")[0]
-      .trim();
+      .trim()
+      .split(",")[0];
   });
 
 // write to file
-fs.writeFileSync("data/08address.txt", table);
+fs.writeFileSync("data/08address.JSON", JSON.stringify(meetings));
