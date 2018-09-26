@@ -3,13 +3,13 @@ var async = require("async"); // npm install async
 var fs = require("fs");
 
 // assign global variable to hold private apiKey every session
-var apiKey = process.env.TAMU_KEY;
+const apiKey = process.env.TAMU_KEY;
 console.log(apiKey);
 
 var meetingsData = [];
 
 // load addresses from parsed file from week 2
-const rawData = fs.readFileSync("data/08address.json");
+const rawData = fs.readFileSync("../2-weekly-assignment/data/08address.JSON");
 const addresses = JSON.parse(rawData);
 console.log(addresses);
 

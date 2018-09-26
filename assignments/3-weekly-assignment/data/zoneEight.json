@@ -75,12 +75,12 @@
     "latLong": { "latitude": "40.8138548", "longitude": "-73.9459315" }
   },
   {
-    "streetAddress": "211 W 129TH ST New York NY ",
-    "latLong": { "latitude": "40.8119105", "longitude": "-73.9471217" }
-  },
-  {
     "streetAddress": "425 W 144TH ST New York NY ",
     "latLong": { "latitude": "40.8238524", "longitude": "-73.9461167" }
+  },
+  {
+    "streetAddress": "211 W 129TH ST New York NY ",
+    "latLong": { "latitude": "40.8119105", "longitude": "-73.9471217" }
   },
   {
     "streetAddress": "204 W 134TH ST New York NY ",
@@ -103,7 +103,10 @@
     "latLong": { "latitude": "40.8232166", "longitude": "-73.9484769" }
   },
   {
-    "streetAddress": "5866 W 135TH ST New York NY ",
-    "latLong": { "latitude": "0", "longitude": "0" }
+    "streetAddress": "66 W 135TH ST New York NY ",
+    "latLong": {
+      "latitude": "40.8136990808044",
+      "longitude": "-73.9401251187181"
+    }
   }
 ]

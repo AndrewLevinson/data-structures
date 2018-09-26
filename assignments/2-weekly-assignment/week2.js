@@ -25,7 +25,10 @@ $("tbody")
       .html()
       .split("<br>")[2]
       .trim()
-      .split(",")[0];
+      .split(",")[0]
+      .split("-")
+      .pop()
+      .replace(/-/g, "");
   });
 
 // write to file
