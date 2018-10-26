@@ -15,10 +15,8 @@ client.connect();
 // Sample SQL statement to create a table:
 var thisQuery =
   "CREATE TABLE locations (locationPK int, name varchar(100), details varchar(300), wheelchairAccess BOOLEAN, addressFK int);";
-// Sample SQL statement to delete a table:
-// var thisQuery = "DROP TABLE aalocations;";
-// Sample SQL statement to query the entire contents of a table:
-// var thisQuery = "SELECT * FROM aalocations;";
+
+// var thisQuery = "ALTER TABLE locations ADD PRIMARY KEY (locationPK);";
 
 client.query(thisQuery, (err, res) => {
   console.log(err, res);

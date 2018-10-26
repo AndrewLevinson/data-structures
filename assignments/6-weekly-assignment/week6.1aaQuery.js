@@ -9,6 +9,7 @@ db_credentials.user = "andrewL";
 db_credentials.host = "mydatabase.cyqehoumbbwa.us-east-1.rds.amazonaws.com";
 db_credentials.database = "mydatabase";
 db_credentials.password = process.env.AWSRDS_PW;
+
 db_credentials.port = 5432;
 
 // Connect to the AWS RDS Postgres database
@@ -19,7 +20,7 @@ client.connect();
 // var thisQuery =
 //   "SELECT mtgday, mtgtime, mtglocation, mtgaddress, mtgtypes FROM aadata WHERE mtgday = 'Monday' and mtghour >= 7;";
 var thisQuery =
-  "SELECT datePK, day, starttime, endtime, meetingtype, locationfk, zone FROM times WHERE day = 'Monday' and starttime >= 5;";
+  "SELECT datePK, day, starttime, endtime, meetingtype, locationfk, zone FROM times WHERE day = 'Mondays' and meetingType = 'OD'";
 
 client.query(thisQuery, (err, res) => {
   if (err) {

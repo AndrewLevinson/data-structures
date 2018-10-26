@@ -13,12 +13,10 @@ const client = new Client(db_credentials);
 client.connect();
 
 // Sample SQL statement to create a table:
-var thisQuery =
-  "CREATE TABLE meetings (meetingPK int, groupFK int, dateFK int, locationFK int);";
-// Sample SQL statement to delete a table:
-// var thisQuery = "DROP TABLE aalocations;";
-// Sample SQL statement to query the entire contents of a table:
-// var thisQuery = "SELECT * FROM aalocations;";
+// var thisQuery =
+//   "CREATE TABLE meetings (meetingPK int, groupFK int, dateFK int, locationFK int);";
+
+var thisQuery = "ALTER TABLE meetings ADD PRIMARY KEY (meetingPK);";
 
 client.query(thisQuery, (err, res) => {
   console.log(err, res);
