@@ -5,9 +5,9 @@ const cTable = require("console.table");
 
 // AWS RDS POSTGRESQL INSTANCE
 var db_credentials = new Object();
-db_credentials.user = "aaron";
-db_credentials.host = "dsdemo.c2g7qw1juwkg.us-east-1.rds.amazonaws.com";
-db_credentials.database = "mydb";
+db_credentials.user = "andrewL";
+db_credentials.host = "mydatabase.cyqehoumbbwa.us-east-1.rds.amazonaws.com";
+db_credentials.database = "mydatabase";
 db_credentials.password = process.env.AWSRDS_PW;
 db_credentials.port = 5432;
 
@@ -15,9 +15,11 @@ db_credentials.port = 5432;
 const client = new Client(db_credentials);
 client.connect();
 
-// Sample SQL statement to query meetings on Monday that start on or after 7:00pm:
+// Sample SQL statement to query meetings on Monday that start on or after 5:00pm:
+// var thisQuery =
+//   "SELECT mtgday, mtgtime, mtglocation, mtgaddress, mtgtypes FROM aadata WHERE mtgday = 'Monday' and mtghour >= 7;";
 var thisQuery =
-  "SELECT mtgday, mtgtime, mtglocation, mtgaddress, mtgtypes FROM aadata WHERE mtgday = 'Monday' and mtghour >= 7;";
+  "SELECT datePK, day, starttime, endtime, meetingtype, locationfk, zone FROM times WHERE day = 'Monday' and starttime >= 5;";
 
 client.query(thisQuery, (err, res) => {
   if (err) {

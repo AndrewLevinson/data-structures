@@ -13,7 +13,7 @@ db_credentials.port = 5432;
 
 // load addresses from parsed file from week 3
 const rawData = fs.readFileSync(
-  "../7-weekly-assignment/data/parsed/parsed-nested-1level.json"
+  "../../7-weekly-assignment/data/parsed/parsed-nested-1level.json"
 );
 const addressesForDb = JSON.parse(rawData);
 
@@ -35,7 +35,15 @@ async.eachSeries(addressesForDb, function(value, callback) {
     ", " +
     value.date.specialInterest +
     ", " +
-    value.date.specialInterest +
+    value.locationFK +
+    ", " +
+    value.location.addressFK +
+    ", " +
+    value.groupFK +
+    ", " +
+    value.meetingPK +
+    ", " +
+    value.zone +
     ", ";
   client.query(thisQuery, (err, res) => {
     console.log(err, res);
