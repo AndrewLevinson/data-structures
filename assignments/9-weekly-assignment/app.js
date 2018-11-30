@@ -58,7 +58,7 @@ var getAndWriteData = function() {
 getAndWriteData();
 
 // write a new row of sensor data every five minutes
-// setInterval(getAndWriteData, 300000);
+setInterval(getAndWriteData, 300000);
 
 // write a new row of sensor data 10 times a second when running. Will not always keep running. Only running when pulling values about 5 min a day.
-setInterval(getAndWriteData, 100);
+// setInterval(getAndWriteData, 100);
