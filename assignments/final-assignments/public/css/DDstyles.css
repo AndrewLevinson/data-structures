@@ -1,0 +1,145 @@
+:root {
+  --personal: #f77cf6;
+  --coding: #f7cc7c;
+  --newyork: #f77c7c;
+  --all: #7c92f7;
+  --title: #7cf7e0;
+  --active: green;
+  --background: #222;
+}
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: "IBM Plex Mono", monospace;
+  color: #fff;
+  background-color: var(--background);
+}
+
+.container {
+  width: 80%;
+  max-width: 800px;
+  margin: 0 auto;
+  padding-top: 5%;
+}
+
+.main {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 10%;
+}
+
+.sidebar,
+.title {
+  text-align: right;
+  min-width: 220px;
+  margin-bottom: 20%;
+}
+
+.title {
+  text-transform: uppercase;
+  letter-spacing: 2.5px;
+
+  position: sticky;
+  top: 10px;
+}
+.learned {
+  color: var(--title);
+  border-bottom: 1px dashed var(--title);
+}
+
+.sidebar {
+  margin-right: 5%;
+}
+
+/* .sidebar > h4 {
+  margin: 0;
+  border-bottom: 1px dashed #fff;
+} */
+
+hr {
+  width: 50px;
+  margin-top: 25px;
+}
+
+.sidebar > p {
+  margin-bottom: 15%;
+  margin-top: 23px;
+}
+
+li {
+  list-style: none;
+  padding: 2px;
+  text-transform: uppercase;
+  margin-bottom: 8px;
+}
+
+label:hover,
+.active {
+  cursor: pointer;
+  font-weight: bold;
+  color: var(--active);
+  border-bottom: 1px dashed var(--active);
+}
+
+label[for="1"]:hover {
+  color: var(--personal);
+  border-bottom: 1px dashed var(--personal);
+}
+label[for="2"]:hover {
+  color: var(--coding);
+  border-bottom: 1px dashed var(--coding);
+}
+label[for="3"]:hover {
+  color: var(--newyork);
+  border-bottom: 1px dashed var(--newyork);
+}
+label[for="4"]:hover {
+  color: var(--all);
+  border-bottom: 1px dashed var(--all);
+}
+
+input {
+  display: none;
+}
+
+article {
+  text-align: left;
+  margin-bottom: 15%;
+  margin-left: 5%;
+  width: 100%;
+  max-width: 1000px;
+}
+
+.content {
+  line-height: 1.45;
+}
+
+article > h3 {
+  color: var(--active);
+  font-size: 130%;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  border-bottom: 1px dashed var(--active);
+}
+
+.date {
+  opacity: 0.7;
+}
+
+input:active {
+  color: green;
+}
+
+@media (max-width: 550px) {
+  .main {
+    display: block;
+  }
+  .title {
+    margin-left: 0;
+  }
+  .container {
+    margin-left: 5%;
+  }
+}
