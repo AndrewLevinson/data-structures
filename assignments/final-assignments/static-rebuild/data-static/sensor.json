@@ -1,0 +1,2810 @@
+ [
+    {
+        "sensorday": 16,
+        "sensorminute": 26,
+        "sensorsecond": 45.249215,
+        "exacttime": "2018-12-16T05:26:45.249Z",
+        "xvalue": 2391,
+        "yvalue": 2020,
+        "zvalue": 1557
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 26,
+        "sensorsecond": 46.158149,
+        "exacttime": "2018-12-16T05:26:46.158Z",
+        "xvalue": 2475,
+        "yvalue": 2004,
+        "zvalue": 1416
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 26,
+        "sensorsecond": 47.140859,
+        "exacttime": "2018-12-16T05:26:47.140Z",
+        "xvalue": 2411,
+        "yvalue": 2038,
+        "zvalue": 1897
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 26,
+        "sensorsecond": 48.162483,
+        "exacttime": "2018-12-16T05:26:48.162Z",
+        "xvalue": 2413,
+        "yvalue": 1972,
+        "zvalue": 1927
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 26,
+        "sensorsecond": 49.159593,
+        "exacttime": "2018-12-16T05:26:49.159Z",
+        "xvalue": 2396,
+        "yvalue": 2043,
+        "zvalue": 1415
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 26,
+        "sensorsecond": 50.168395,
+        "exacttime": "2018-12-16T05:26:50.168Z",
+        "xvalue": 2370,
+        "yvalue": 2068,
+        "zvalue": 1513
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 26,
+        "sensorsecond": 51.156407,
+        "exacttime": "2018-12-16T05:26:51.156Z",
+        "xvalue": 2413,
+        "yvalue": 2051,
+        "zvalue": 1549
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 26,
+        "sensorsecond": 52.163072,
+        "exacttime": "2018-12-16T05:26:52.163Z",
+        "xvalue": 2386,
+        "yvalue": 2054,
+        "zvalue": 1698
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 26,
+        "sensorsecond": 53.172521,
+        "exacttime": "2018-12-16T05:26:53.172Z",
+        "xvalue": 2427,
+        "yvalue": 2057,
+        "zvalue": 1838
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 26,
+        "sensorsecond": 54.175566,
+        "exacttime": "2018-12-16T05:26:54.175Z",
+        "xvalue": 2392,
+        "yvalue": 2023,
+        "zvalue": 1908
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 26,
+        "sensorsecond": 55.167302,
+        "exacttime": "2018-12-16T05:26:55.167Z",
+        "xvalue": 2391,
+        "yvalue": 2029,
+        "zvalue": 1801
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 26,
+        "sensorsecond": 56.156061,
+        "exacttime": "2018-12-16T05:26:56.156Z",
+        "xvalue": 2398,
+        "yvalue": 2022,
+        "zvalue": 1686
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 26,
+        "sensorsecond": 57.156011,
+        "exacttime": "2018-12-16T05:26:57.156Z",
+        "xvalue": 2395,
+        "yvalue": 2022,
+        "zvalue": 1367
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 26,
+        "sensorsecond": 58.936947,
+        "exacttime": "2018-12-16T05:26:58.936Z",
+        "xvalue": 2380,
+        "yvalue": 2011,
+        "zvalue": 1430
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 26,
+        "sensorsecond": 59.165343,
+        "exacttime": "2018-12-16T05:26:59.165Z",
+        "xvalue": 2376,
+        "yvalue": 2033,
+        "zvalue": 1489
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 27,
+        "sensorsecond": 0.194145,
+        "exacttime": "2018-12-16T05:27:00.194Z",
+        "xvalue": 2399,
+        "yvalue": 2015,
+        "zvalue": 1486
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 27,
+        "sensorsecond": 1.163018,
+        "exacttime": "2018-12-16T05:27:01.163Z",
+        "xvalue": 2307,
+        "yvalue": 2049,
+        "zvalue": 1377
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 27,
+        "sensorsecond": 2.164455,
+        "exacttime": "2018-12-16T05:27:02.164Z",
+        "xvalue": 2450,
+        "yvalue": 2012,
+        "zvalue": 1448
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 27,
+        "sensorsecond": 3.171071,
+        "exacttime": "2018-12-16T05:27:03.171Z",
+        "xvalue": 2402,
+        "yvalue": 2030,
+        "zvalue": 1939
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 27,
+        "sensorsecond": 4.167423,
+        "exacttime": "2018-12-16T05:27:04.167Z",
+        "xvalue": 2334,
+        "yvalue": 2009,
+        "zvalue": 1455
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 27,
+        "sensorsecond": 5.199802,
+        "exacttime": "2018-12-16T05:27:05.199Z",
+        "xvalue": 2389,
+        "yvalue": 2026,
+        "zvalue": 1929
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 27,
+        "sensorsecond": 6.258208,
+        "exacttime": "2018-12-16T05:27:06.258Z",
+        "xvalue": 2351,
+        "yvalue": 1984,
+        "zvalue": 1890
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 27,
+        "sensorsecond": 7.171305,
+        "exacttime": "2018-12-16T05:27:07.171Z",
+        "xvalue": 2315,
+        "yvalue": 2085,
+        "zvalue": 1928
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 27,
+        "sensorsecond": 9.516277,
+        "exacttime": "2018-12-16T05:27:09.516Z",
+        "xvalue": 2374,
+        "yvalue": 2013,
+        "zvalue": 1917
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 27,
+        "sensorsecond": 9.550553,
+        "exacttime": "2018-12-16T05:27:09.550Z",
+        "xvalue": 2467,
+        "yvalue": 1944,
+        "zvalue": 1693
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 27,
+        "sensorsecond": 10.196496,
+        "exacttime": "2018-12-16T05:27:10.196Z",
+        "xvalue": 2370,
+        "yvalue": 2047,
+        "zvalue": 1398
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 27,
+        "sensorsecond": 11.176514,
+        "exacttime": "2018-12-16T05:27:11.176Z",
+        "xvalue": 2422,
+        "yvalue": 2020,
+        "zvalue": 1928
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 27,
+        "sensorsecond": 12.18313,
+        "exacttime": "2018-12-16T05:27:12.183Z",
+        "xvalue": 2410,
+        "yvalue": 2011,
+        "zvalue": 1454
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 27,
+        "sensorsecond": 14.385594,
+        "exacttime": "2018-12-16T05:27:14.385Z",
+        "xvalue": 2461,
+        "yvalue": 2017,
+        "zvalue": 1387
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 27,
+        "sensorsecond": 14.484675,
+        "exacttime": "2018-12-16T05:27:14.484Z",
+        "xvalue": 2414,
+        "yvalue": 2025,
+        "zvalue": 1354
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 27,
+        "sensorsecond": 15.175606,
+        "exacttime": "2018-12-16T05:27:15.175Z",
+        "xvalue": 2399,
+        "yvalue": 2037,
+        "zvalue": 1915
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 27,
+        "sensorsecond": 16.187861,
+        "exacttime": "2018-12-16T05:27:16.187Z",
+        "xvalue": 2442,
+        "yvalue": 2050,
+        "zvalue": 1369
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 27,
+        "sensorsecond": 17.208032,
+        "exacttime": "2018-12-16T05:27:17.208Z",
+        "xvalue": 2375,
+        "yvalue": 2009,
+        "zvalue": 1359
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 27,
+        "sensorsecond": 18.17168,
+        "exacttime": "2018-12-16T05:27:18.171Z",
+        "xvalue": 2354,
+        "yvalue": 1995,
+        "zvalue": 1405
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 27,
+        "sensorsecond": 19.182357,
+        "exacttime": "2018-12-16T05:27:19.182Z",
+        "xvalue": 2337,
+        "yvalue": 2121,
+        "zvalue": 1366
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 27,
+        "sensorsecond": 20.201984,
+        "exacttime": "2018-12-16T05:27:20.201Z",
+        "xvalue": 2481,
+        "yvalue": 2026,
+        "zvalue": 1892
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 27,
+        "sensorsecond": 21.170888,
+        "exacttime": "2018-12-16T05:27:21.170Z",
+        "xvalue": 2436,
+        "yvalue": 2030,
+        "zvalue": 1354
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 27,
+        "sensorsecond": 22.175057,
+        "exacttime": "2018-12-16T05:27:22.175Z",
+        "xvalue": 2452,
+        "yvalue": 2032,
+        "zvalue": 1657
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 27,
+        "sensorsecond": 23.17143,
+        "exacttime": "2018-12-16T05:27:23.171Z",
+        "xvalue": 2436,
+        "yvalue": 1991,
+        "zvalue": 1483
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 27,
+        "sensorsecond": 24.182516,
+        "exacttime": "2018-12-16T05:27:24.182Z",
+        "xvalue": 2433,
+        "yvalue": 2024,
+        "zvalue": 1928
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 27,
+        "sensorsecond": 25.469361,
+        "exacttime": "2018-12-16T05:27:25.469Z",
+        "xvalue": 2285,
+        "yvalue": 2026,
+        "zvalue": 1355
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 27,
+        "sensorsecond": 26.195119,
+        "exacttime": "2018-12-16T05:27:26.195Z",
+        "xvalue": 2400,
+        "yvalue": 2024,
+        "zvalue": 1949
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 27,
+        "sensorsecond": 27.174832,
+        "exacttime": "2018-12-16T05:27:27.174Z",
+        "xvalue": 2303,
+        "yvalue": 1881,
+        "zvalue": 1832
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 27,
+        "sensorsecond": 28.183484,
+        "exacttime": "2018-12-16T05:27:28.183Z",
+        "xvalue": 2412,
+        "yvalue": 2104,
+        "zvalue": 1650
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 27,
+        "sensorsecond": 29.217713,
+        "exacttime": "2018-12-16T05:27:29.217Z",
+        "xvalue": 2482,
+        "yvalue": 2289,
+        "zvalue": 1970
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 27,
+        "sensorsecond": 30.207606,
+        "exacttime": "2018-12-16T05:27:30.207Z",
+        "xvalue": 2380,
+        "yvalue": 2153,
+        "zvalue": 1351
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 27,
+        "sensorsecond": 31.187648,
+        "exacttime": "2018-12-16T05:27:31.187Z",
+        "xvalue": 2343,
+        "yvalue": 2055,
+        "zvalue": 1467
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 27,
+        "sensorsecond": 32.211387,
+        "exacttime": "2018-12-16T05:27:32.211Z",
+        "xvalue": 2393,
+        "yvalue": 2066,
+        "zvalue": 1792
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 27,
+        "sensorsecond": 33.205239,
+        "exacttime": "2018-12-16T05:27:33.205Z",
+        "xvalue": 2406,
+        "yvalue": 1996,
+        "zvalue": 1349
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 27,
+        "sensorsecond": 34.196968,
+        "exacttime": "2018-12-16T05:27:34.196Z",
+        "xvalue": 2423,
+        "yvalue": 2036,
+        "zvalue": 1862
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 27,
+        "sensorsecond": 35.205302,
+        "exacttime": "2018-12-16T05:27:35.205Z",
+        "xvalue": 2438,
+        "yvalue": 2032,
+        "zvalue": 1402
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 27,
+        "sensorsecond": 36.190467,
+        "exacttime": "2018-12-16T05:27:36.190Z",
+        "xvalue": 2417,
+        "yvalue": 1938,
+        "zvalue": 1852
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 27,
+        "sensorsecond": 37.190392,
+        "exacttime": "2018-12-16T05:27:37.190Z",
+        "xvalue": 2265,
+        "yvalue": 2086,
+        "zvalue": 1869
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 27,
+        "sensorsecond": 38.194593,
+        "exacttime": "2018-12-16T05:27:38.194Z",
+        "xvalue": 2379,
+        "yvalue": 2136,
+        "zvalue": 1578
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 27,
+        "sensorsecond": 39.221206,
+        "exacttime": "2018-12-16T05:27:39.221Z",
+        "xvalue": 2379,
+        "yvalue": 2035,
+        "zvalue": 1773
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 27,
+        "sensorsecond": 40.220044,
+        "exacttime": "2018-12-16T05:27:40.220Z",
+        "xvalue": 2370,
+        "yvalue": 2100,
+        "zvalue": 1751
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 27,
+        "sensorsecond": 41.193705,
+        "exacttime": "2018-12-16T05:27:41.193Z",
+        "xvalue": 2409,
+        "yvalue": 2000,
+        "zvalue": 1949
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 27,
+        "sensorsecond": 42.190903,
+        "exacttime": "2018-12-16T05:27:42.190Z",
+        "xvalue": 2385,
+        "yvalue": 2028,
+        "zvalue": 1463
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 27,
+        "sensorsecond": 43.219731,
+        "exacttime": "2018-12-16T05:27:43.219Z",
+        "xvalue": 2526,
+        "yvalue": 2090,
+        "zvalue": 1881
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 27,
+        "sensorsecond": 44.224014,
+        "exacttime": "2018-12-16T05:27:44.224Z",
+        "xvalue": 2369,
+        "yvalue": 1954,
+        "zvalue": 1688
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 27,
+        "sensorsecond": 45.212138,
+        "exacttime": "2018-12-16T05:27:45.212Z",
+        "xvalue": 2438,
+        "yvalue": 2065,
+        "zvalue": 1429
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 27,
+        "sensorsecond": 46.201052,
+        "exacttime": "2018-12-16T05:27:46.201Z",
+        "xvalue": 2351,
+        "yvalue": 2001,
+        "zvalue": 1381
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 27,
+        "sensorsecond": 51.462333,
+        "exacttime": "2018-12-16T05:27:51.462Z",
+        "xvalue": 2376,
+        "yvalue": 2006,
+        "zvalue": 1343
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 27,
+        "sensorsecond": 51.4803,
+        "exacttime": "2018-12-16T05:27:51.480Z",
+        "xvalue": 2355,
+        "yvalue": 2018,
+        "zvalue": 1857
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 27,
+        "sensorsecond": 51.480699,
+        "exacttime": "2018-12-16T05:27:51.480Z",
+        "xvalue": 2368,
+        "yvalue": 2005,
+        "zvalue": 1556
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 27,
+        "sensorsecond": 51.489008,
+        "exacttime": "2018-12-16T05:27:51.489Z",
+        "xvalue": 2342,
+        "yvalue": 1980,
+        "zvalue": 1593
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 27,
+        "sensorsecond": 51.490246,
+        "exacttime": "2018-12-16T05:27:51.490Z",
+        "xvalue": 2380,
+        "yvalue": 2037,
+        "zvalue": 1354
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 27,
+        "sensorsecond": 52.203671,
+        "exacttime": "2018-12-16T05:27:52.203Z",
+        "xvalue": 2421,
+        "yvalue": 2075,
+        "zvalue": 1857
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 27,
+        "sensorsecond": 53.201333,
+        "exacttime": "2018-12-16T05:27:53.201Z",
+        "xvalue": 2386,
+        "yvalue": 2000,
+        "zvalue": 1925
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 27,
+        "sensorsecond": 54.238672,
+        "exacttime": "2018-12-16T05:27:54.238Z",
+        "xvalue": 2390,
+        "yvalue": 2101,
+        "zvalue": 1703
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 27,
+        "sensorsecond": 55.216402,
+        "exacttime": "2018-12-16T05:27:55.216Z",
+        "xvalue": 2437,
+        "yvalue": 2018,
+        "zvalue": 1481
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 27,
+        "sensorsecond": 56.223654,
+        "exacttime": "2018-12-16T05:27:56.223Z",
+        "xvalue": 2352,
+        "yvalue": 2049,
+        "zvalue": 1373
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 27,
+        "sensorsecond": 57.201754,
+        "exacttime": "2018-12-16T05:27:57.201Z",
+        "xvalue": 2375,
+        "yvalue": 2047,
+        "zvalue": 1607
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 27,
+        "sensorsecond": 58.289487,
+        "exacttime": "2018-12-16T05:27:58.289Z",
+        "xvalue": 2368,
+        "yvalue": 2061,
+        "zvalue": 1361
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 27,
+        "sensorsecond": 59.223845,
+        "exacttime": "2018-12-16T05:27:59.223Z",
+        "xvalue": 2343,
+        "yvalue": 2049,
+        "zvalue": 1921
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 28,
+        "sensorsecond": 0.308605,
+        "exacttime": "2018-12-16T05:28:00.308Z",
+        "xvalue": 2458,
+        "yvalue": 1960,
+        "zvalue": 1949
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 28,
+        "sensorsecond": 1.234384,
+        "exacttime": "2018-12-16T05:28:01.234Z",
+        "xvalue": 2317,
+        "yvalue": 2028,
+        "zvalue": 1686
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 28,
+        "sensorsecond": 2.218678,
+        "exacttime": "2018-12-16T05:28:02.218Z",
+        "xvalue": 2396,
+        "yvalue": 2094,
+        "zvalue": 1355
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 28,
+        "sensorsecond": 3.357551,
+        "exacttime": "2018-12-16T05:28:03.357Z",
+        "xvalue": 2353,
+        "yvalue": 2067,
+        "zvalue": 1582
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 28,
+        "sensorsecond": 4.255831,
+        "exacttime": "2018-12-16T05:28:04.255Z",
+        "xvalue": 2354,
+        "yvalue": 2016,
+        "zvalue": 1873
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 28,
+        "sensorsecond": 5.227875,
+        "exacttime": "2018-12-16T05:28:05.227Z",
+        "xvalue": 2345,
+        "yvalue": 1993,
+        "zvalue": 1556
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 28,
+        "sensorsecond": 6.245574,
+        "exacttime": "2018-12-16T05:28:06.245Z",
+        "xvalue": 2351,
+        "yvalue": 2039,
+        "zvalue": 1388
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 28,
+        "sensorsecond": 7.206378,
+        "exacttime": "2018-12-16T05:28:07.206Z",
+        "xvalue": 2336,
+        "yvalue": 2010,
+        "zvalue": 1925
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 28,
+        "sensorsecond": 8.211453,
+        "exacttime": "2018-12-16T05:28:08.211Z",
+        "xvalue": 2358,
+        "yvalue": 2023,
+        "zvalue": 1847
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 28,
+        "sensorsecond": 9.219022,
+        "exacttime": "2018-12-16T05:28:09.219Z",
+        "xvalue": 2385,
+        "yvalue": 2028,
+        "zvalue": 1795
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 28,
+        "sensorsecond": 10.230161,
+        "exacttime": "2018-12-16T05:28:10.230Z",
+        "xvalue": 2338,
+        "yvalue": 1978,
+        "zvalue": 1376
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 28,
+        "sensorsecond": 11.247279,
+        "exacttime": "2018-12-16T05:28:11.247Z",
+        "xvalue": 2363,
+        "yvalue": 2052,
+        "zvalue": 1915
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 28,
+        "sensorsecond": 12.218151,
+        "exacttime": "2018-12-16T05:28:12.218Z",
+        "xvalue": 2349,
+        "yvalue": 2024,
+        "zvalue": 1446
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 28,
+        "sensorsecond": 13.225173,
+        "exacttime": "2018-12-16T05:28:13.225Z",
+        "xvalue": 2343,
+        "yvalue": 2022,
+        "zvalue": 1367
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 28,
+        "sensorsecond": 14.687161,
+        "exacttime": "2018-12-16T05:28:14.687Z",
+        "xvalue": 2461,
+        "yvalue": 2020,
+        "zvalue": 1889
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 28,
+        "sensorsecond": 15.215984,
+        "exacttime": "2018-12-16T05:28:15.215Z",
+        "xvalue": 2364,
+        "yvalue": 2000,
+        "zvalue": 1494
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 28,
+        "sensorsecond": 16.23819,
+        "exacttime": "2018-12-16T05:28:16.238Z",
+        "xvalue": 2376,
+        "yvalue": 1984,
+        "zvalue": 1843
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 28,
+        "sensorsecond": 17.224849,
+        "exacttime": "2018-12-16T05:28:17.224Z",
+        "xvalue": 2382,
+        "yvalue": 1981,
+        "zvalue": 1938
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 28,
+        "sensorsecond": 18.229843,
+        "exacttime": "2018-12-16T05:28:18.229Z",
+        "xvalue": 2379,
+        "yvalue": 1992,
+        "zvalue": 1865
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 28,
+        "sensorsecond": 19.228749,
+        "exacttime": "2018-12-16T05:28:19.228Z",
+        "xvalue": 2380,
+        "yvalue": 1992,
+        "zvalue": 1876
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 28,
+        "sensorsecond": 20.219548,
+        "exacttime": "2018-12-16T05:28:20.219Z",
+        "xvalue": 2405,
+        "yvalue": 1982,
+        "zvalue": 1861
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 28,
+        "sensorsecond": 21.250035,
+        "exacttime": "2018-12-16T05:28:21.250Z",
+        "xvalue": 2352,
+        "yvalue": 1994,
+        "zvalue": 1584
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 28,
+        "sensorsecond": 22.229984,
+        "exacttime": "2018-12-16T05:28:22.229Z",
+        "xvalue": 2427,
+        "yvalue": 2070,
+        "zvalue": 1864
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 28,
+        "sensorsecond": 23.221598,
+        "exacttime": "2018-12-16T05:28:23.221Z",
+        "xvalue": 2391,
+        "yvalue": 1995,
+        "zvalue": 1773
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 28,
+        "sensorsecond": 24.244269,
+        "exacttime": "2018-12-16T05:28:24.244Z",
+        "xvalue": 2359,
+        "yvalue": 2026,
+        "zvalue": 1928
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 28,
+        "sensorsecond": 25.224886,
+        "exacttime": "2018-12-16T05:28:25.224Z",
+        "xvalue": 2330,
+        "yvalue": 2010,
+        "zvalue": 1367
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 28,
+        "sensorsecond": 26.243929,
+        "exacttime": "2018-12-16T05:28:26.243Z",
+        "xvalue": 2374,
+        "yvalue": 2014,
+        "zvalue": 1355
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 28,
+        "sensorsecond": 27.229404,
+        "exacttime": "2018-12-16T05:28:27.229Z",
+        "xvalue": 2354,
+        "yvalue": 1989,
+        "zvalue": 1367
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 28,
+        "sensorsecond": 28.24806,
+        "exacttime": "2018-12-16T05:28:28.248Z",
+        "xvalue": 2398,
+        "yvalue": 2062,
+        "zvalue": 1400
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 28,
+        "sensorsecond": 29.230955,
+        "exacttime": "2018-12-16T05:28:29.230Z",
+        "xvalue": 2380,
+        "yvalue": 1984,
+        "zvalue": 1565
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 28,
+        "sensorsecond": 30.231375,
+        "exacttime": "2018-12-16T05:28:30.231Z",
+        "xvalue": 2414,
+        "yvalue": 1969,
+        "zvalue": 1550
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 28,
+        "sensorsecond": 31.253906,
+        "exacttime": "2018-12-16T05:28:31.253Z",
+        "xvalue": 2402,
+        "yvalue": 1919,
+        "zvalue": 1358
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 28,
+        "sensorsecond": 32.22784,
+        "exacttime": "2018-12-16T05:28:32.227Z",
+        "xvalue": 2348,
+        "yvalue": 1992,
+        "zvalue": 1773
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 28,
+        "sensorsecond": 33.232055,
+        "exacttime": "2018-12-16T05:28:33.232Z",
+        "xvalue": 2284,
+        "yvalue": 2017,
+        "zvalue": 1805
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 28,
+        "sensorsecond": 34.232459,
+        "exacttime": "2018-12-16T05:28:34.232Z",
+        "xvalue": 2313,
+        "yvalue": 1985,
+        "zvalue": 1869
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 28,
+        "sensorsecond": 35.249497,
+        "exacttime": "2018-12-16T05:28:35.249Z",
+        "xvalue": 2285,
+        "yvalue": 2080,
+        "zvalue": 1687
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 28,
+        "sensorsecond": 36.237419,
+        "exacttime": "2018-12-16T05:28:36.237Z",
+        "xvalue": 2369,
+        "yvalue": 1968,
+        "zvalue": 1862
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 28,
+        "sensorsecond": 37.238881,
+        "exacttime": "2018-12-16T05:28:37.238Z",
+        "xvalue": 2351,
+        "yvalue": 2016,
+        "zvalue": 1432
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 28,
+        "sensorsecond": 38.245426,
+        "exacttime": "2018-12-16T05:28:38.245Z",
+        "xvalue": 2354,
+        "yvalue": 2020,
+        "zvalue": 1328
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 28,
+        "sensorsecond": 39.242494,
+        "exacttime": "2018-12-16T05:28:39.242Z",
+        "xvalue": 2394,
+        "yvalue": 1965,
+        "zvalue": 1378
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 28,
+        "sensorsecond": 40.238355,
+        "exacttime": "2018-12-16T05:28:40.238Z",
+        "xvalue": 2379,
+        "yvalue": 1981,
+        "zvalue": 1627
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 28,
+        "sensorsecond": 41.258039,
+        "exacttime": "2018-12-16T05:28:41.258Z",
+        "xvalue": 2343,
+        "yvalue": 2036,
+        "zvalue": 1686
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 28,
+        "sensorsecond": 42.259662,
+        "exacttime": "2018-12-16T05:28:42.259Z",
+        "xvalue": 2372,
+        "yvalue": 1977,
+        "zvalue": 1691
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 28,
+        "sensorsecond": 43.884614,
+        "exacttime": "2018-12-16T05:28:43.884Z",
+        "xvalue": 2255,
+        "yvalue": 1980,
+        "zvalue": 1356
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 28,
+        "sensorsecond": 44.251324,
+        "exacttime": "2018-12-16T05:28:44.251Z",
+        "xvalue": 2322,
+        "yvalue": 1988,
+        "zvalue": 1804
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 28,
+        "sensorsecond": 45.249026,
+        "exacttime": "2018-12-16T05:28:45.249Z",
+        "xvalue": 2353,
+        "yvalue": 1954,
+        "zvalue": 1876
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 28,
+        "sensorsecond": 46.247337,
+        "exacttime": "2018-12-16T05:28:46.247Z",
+        "xvalue": 2251,
+        "yvalue": 2083,
+        "zvalue": 1897
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 28,
+        "sensorsecond": 47.260363,
+        "exacttime": "2018-12-16T05:28:47.260Z",
+        "xvalue": 2316,
+        "yvalue": 1966,
+        "zvalue": 1386
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 28,
+        "sensorsecond": 48.248764,
+        "exacttime": "2018-12-16T05:28:48.248Z",
+        "xvalue": 2310,
+        "yvalue": 1940,
+        "zvalue": 1422
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 28,
+        "sensorsecond": 49.263217,
+        "exacttime": "2018-12-16T05:28:49.263Z",
+        "xvalue": 2346,
+        "yvalue": 2071,
+        "zvalue": 1460
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 28,
+        "sensorsecond": 50.265603,
+        "exacttime": "2018-12-16T05:28:50.265Z",
+        "xvalue": 2341,
+        "yvalue": 2255,
+        "zvalue": 1356
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 28,
+        "sensorsecond": 51.259932,
+        "exacttime": "2018-12-16T05:28:51.259Z",
+        "xvalue": 2336,
+        "yvalue": 2033,
+        "zvalue": 1322
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 28,
+        "sensorsecond": 52.269401,
+        "exacttime": "2018-12-16T05:28:52.269Z",
+        "xvalue": 2387,
+        "yvalue": 1997,
+        "zvalue": 1832
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 28,
+        "sensorsecond": 53.284437,
+        "exacttime": "2018-12-16T05:28:53.284Z",
+        "xvalue": 2303,
+        "yvalue": 1940,
+        "zvalue": 1330
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 28,
+        "sensorsecond": 54.264381,
+        "exacttime": "2018-12-16T05:28:54.264Z",
+        "xvalue": 2301,
+        "yvalue": 1981,
+        "zvalue": 1701
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 28,
+        "sensorsecond": 55.26163,
+        "exacttime": "2018-12-16T05:28:55.261Z",
+        "xvalue": 2421,
+        "yvalue": 2010,
+        "zvalue": 1925
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 28,
+        "sensorsecond": 56.297655,
+        "exacttime": "2018-12-16T05:28:56.297Z",
+        "xvalue": 2371,
+        "yvalue": 1749,
+        "zvalue": 1401
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 28,
+        "sensorsecond": 57.301768,
+        "exacttime": "2018-12-16T05:28:57.301Z",
+        "xvalue": 2395,
+        "yvalue": 2031,
+        "zvalue": 1692
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 28,
+        "sensorsecond": 58.433817,
+        "exacttime": "2018-12-16T05:28:58.433Z",
+        "xvalue": 2320,
+        "yvalue": 2077,
+        "zvalue": 1887
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 28,
+        "sensorsecond": 59.26252,
+        "exacttime": "2018-12-16T05:28:59.262Z",
+        "xvalue": 2318,
+        "yvalue": 2016,
+        "zvalue": 1781
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 29,
+        "sensorsecond": 0.295873,
+        "exacttime": "2018-12-16T05:29:00.295Z",
+        "xvalue": 2297,
+        "yvalue": 2086,
+        "zvalue": 1467
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 29,
+        "sensorsecond": 1.291551,
+        "exacttime": "2018-12-16T05:29:01.291Z",
+        "xvalue": 2379,
+        "yvalue": 2016,
+        "zvalue": 1663
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 29,
+        "sensorsecond": 2.273996,
+        "exacttime": "2018-12-16T05:29:02.273Z",
+        "xvalue": 2366,
+        "yvalue": 2057,
+        "zvalue": 1373
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 29,
+        "sensorsecond": 3.265974,
+        "exacttime": "2018-12-16T05:29:03.265Z",
+        "xvalue": 2360,
+        "yvalue": 1978,
+        "zvalue": 1388
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 29,
+        "sensorsecond": 4.281184,
+        "exacttime": "2018-12-16T05:29:04.281Z",
+        "xvalue": 2238,
+        "yvalue": 1918,
+        "zvalue": 1332
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 29,
+        "sensorsecond": 5.273014,
+        "exacttime": "2018-12-16T05:29:05.273Z",
+        "xvalue": 2260,
+        "yvalue": 1963,
+        "zvalue": 1355
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 29,
+        "sensorsecond": 6.280495,
+        "exacttime": "2018-12-16T05:29:06.280Z",
+        "xvalue": 2254,
+        "yvalue": 1980,
+        "zvalue": 1278
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 29,
+        "sensorsecond": 7.261607,
+        "exacttime": "2018-12-16T05:29:07.261Z",
+        "xvalue": 2434,
+        "yvalue": 1912,
+        "zvalue": 1388
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 29,
+        "sensorsecond": 8.264738,
+        "exacttime": "2018-12-16T05:29:08.264Z",
+        "xvalue": 2378,
+        "yvalue": 1978,
+        "zvalue": 1370
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 29,
+        "sensorsecond": 9.280274,
+        "exacttime": "2018-12-16T05:29:09.280Z",
+        "xvalue": 2346,
+        "yvalue": 2031,
+        "zvalue": 1768
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 29,
+        "sensorsecond": 10.269737,
+        "exacttime": "2018-12-16T05:29:10.269Z",
+        "xvalue": 2323,
+        "yvalue": 1990,
+        "zvalue": 1342
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 29,
+        "sensorsecond": 11.303581,
+        "exacttime": "2018-12-16T05:29:11.303Z",
+        "xvalue": 2361,
+        "yvalue": 1931,
+        "zvalue": 1534
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 29,
+        "sensorsecond": 12.268817,
+        "exacttime": "2018-12-16T05:29:12.268Z",
+        "xvalue": 2353,
+        "yvalue": 2037,
+        "zvalue": 1353
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 29,
+        "sensorsecond": 13.2935,
+        "exacttime": "2018-12-16T05:29:13.293Z",
+        "xvalue": 2414,
+        "yvalue": 2016,
+        "zvalue": 1450
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 29,
+        "sensorsecond": 14.270745,
+        "exacttime": "2018-12-16T05:29:14.270Z",
+        "xvalue": 2421,
+        "yvalue": 2061,
+        "zvalue": 1749
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 29,
+        "sensorsecond": 15.291376,
+        "exacttime": "2018-12-16T05:29:15.291Z",
+        "xvalue": 2368,
+        "yvalue": 1998,
+        "zvalue": 1598
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 29,
+        "sensorsecond": 16.281218,
+        "exacttime": "2018-12-16T05:29:16.281Z",
+        "xvalue": 2358,
+        "yvalue": 1968,
+        "zvalue": 1337
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 29,
+        "sensorsecond": 17.265611,
+        "exacttime": "2018-12-16T05:29:17.265Z",
+        "xvalue": 2298,
+        "yvalue": 1969,
+        "zvalue": 1441
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 29,
+        "sensorsecond": 18.282325,
+        "exacttime": "2018-12-16T05:29:18.282Z",
+        "xvalue": 2327,
+        "yvalue": 1998,
+        "zvalue": 1377
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 29,
+        "sensorsecond": 19.313022,
+        "exacttime": "2018-12-16T05:29:19.313Z",
+        "xvalue": 2366,
+        "yvalue": 1814,
+        "zvalue": 1361
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 29,
+        "sensorsecond": 20.276287,
+        "exacttime": "2018-12-16T05:29:20.276Z",
+        "xvalue": 2338,
+        "yvalue": 1981,
+        "zvalue": 1817
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 29,
+        "sensorsecond": 21.292408,
+        "exacttime": "2018-12-16T05:29:21.292Z",
+        "xvalue": 2266,
+        "yvalue": 2043,
+        "zvalue": 1805
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 29,
+        "sensorsecond": 22.268938,
+        "exacttime": "2018-12-16T05:29:22.268Z",
+        "xvalue": 2352,
+        "yvalue": 1943,
+        "zvalue": 1876
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 29,
+        "sensorsecond": 23.283003,
+        "exacttime": "2018-12-16T05:29:23.283Z",
+        "xvalue": 2327,
+        "yvalue": 1948,
+        "zvalue": 1867
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 29,
+        "sensorsecond": 24.312113,
+        "exacttime": "2018-12-16T05:29:24.312Z",
+        "xvalue": 2320,
+        "yvalue": 1994,
+        "zvalue": 1680
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 29,
+        "sensorsecond": 25.280332,
+        "exacttime": "2018-12-16T05:29:25.280Z",
+        "xvalue": 2337,
+        "yvalue": 2005,
+        "zvalue": 1799
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 29,
+        "sensorsecond": 26.309473,
+        "exacttime": "2018-12-16T05:29:26.309Z",
+        "xvalue": 2244,
+        "yvalue": 1893,
+        "zvalue": 1870
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 29,
+        "sensorsecond": 27.286788,
+        "exacttime": "2018-12-16T05:29:27.286Z",
+        "xvalue": 2286,
+        "yvalue": 1968,
+        "zvalue": 1328
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 29,
+        "sensorsecond": 28.283149,
+        "exacttime": "2018-12-16T05:29:28.283Z",
+        "xvalue": 2328,
+        "yvalue": 2052,
+        "zvalue": 1821
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 29,
+        "sensorsecond": 29.277685,
+        "exacttime": "2018-12-16T05:29:29.277Z",
+        "xvalue": 2301,
+        "yvalue": 2012,
+        "zvalue": 1886
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 29,
+        "sensorsecond": 30.322913,
+        "exacttime": "2018-12-16T05:29:30.322Z",
+        "xvalue": 2404,
+        "yvalue": 2023,
+        "zvalue": 1446
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 29,
+        "sensorsecond": 31.297522,
+        "exacttime": "2018-12-16T05:29:31.297Z",
+        "xvalue": 2374,
+        "yvalue": 1977,
+        "zvalue": 1699
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 29,
+        "sensorsecond": 32.336566,
+        "exacttime": "2018-12-16T05:29:32.336Z",
+        "xvalue": 2389,
+        "yvalue": 2007,
+        "zvalue": 1366
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 29,
+        "sensorsecond": 33.366601,
+        "exacttime": "2018-12-16T05:29:33.366Z",
+        "xvalue": 2354,
+        "yvalue": 2035,
+        "zvalue": 1419
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 29,
+        "sensorsecond": 34.305143,
+        "exacttime": "2018-12-16T05:29:34.305Z",
+        "xvalue": 2405,
+        "yvalue": 1945,
+        "zvalue": 1351
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 29,
+        "sensorsecond": 35.291231,
+        "exacttime": "2018-12-16T05:29:35.291Z",
+        "xvalue": 2344,
+        "yvalue": 2051,
+        "zvalue": 1353
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 29,
+        "sensorsecond": 36.30396,
+        "exacttime": "2018-12-16T05:29:36.303Z",
+        "xvalue": 2397,
+        "yvalue": 2024,
+        "zvalue": 1355
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 29,
+        "sensorsecond": 37.296189,
+        "exacttime": "2018-12-16T05:29:37.296Z",
+        "xvalue": 2447,
+        "yvalue": 1945,
+        "zvalue": 1367
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 29,
+        "sensorsecond": 38.283714,
+        "exacttime": "2018-12-16T05:29:38.283Z",
+        "xvalue": 2367,
+        "yvalue": 2045,
+        "zvalue": 1375
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 29,
+        "sensorsecond": 39.29516,
+        "exacttime": "2018-12-16T05:29:39.295Z",
+        "xvalue": 2391,
+        "yvalue": 2107,
+        "zvalue": 1381
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 29,
+        "sensorsecond": 40.290976,
+        "exacttime": "2018-12-16T05:29:40.290Z",
+        "xvalue": 2365,
+        "yvalue": 2057,
+        "zvalue": 1341
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 29,
+        "sensorsecond": 41.312277,
+        "exacttime": "2018-12-16T05:29:41.312Z",
+        "xvalue": 2445,
+        "yvalue": 1997,
+        "zvalue": 1394
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 29,
+        "sensorsecond": 42.294053,
+        "exacttime": "2018-12-16T05:29:42.294Z",
+        "xvalue": 2378,
+        "yvalue": 1981,
+        "zvalue": 1460
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 29,
+        "sensorsecond": 43.280877,
+        "exacttime": "2018-12-16T05:29:43.280Z",
+        "xvalue": 2446,
+        "yvalue": 2031,
+        "zvalue": 1342
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 29,
+        "sensorsecond": 44.279985,
+        "exacttime": "2018-12-16T05:29:44.279Z",
+        "xvalue": 2394,
+        "yvalue": 2027,
+        "zvalue": 1367
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 29,
+        "sensorsecond": 45.317914,
+        "exacttime": "2018-12-16T05:29:45.317Z",
+        "xvalue": 2455,
+        "yvalue": 2076,
+        "zvalue": 1792
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 29,
+        "sensorsecond": 46.332264,
+        "exacttime": "2018-12-16T05:29:46.332Z",
+        "xvalue": 2375,
+        "yvalue": 2025,
+        "zvalue": 1436
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 29,
+        "sensorsecond": 47.325784,
+        "exacttime": "2018-12-16T05:29:47.325Z",
+        "xvalue": 2376,
+        "yvalue": 2029,
+        "zvalue": 1375
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 29,
+        "sensorsecond": 48.299023,
+        "exacttime": "2018-12-16T05:29:48.299Z",
+        "xvalue": 2392,
+        "yvalue": 2012,
+        "zvalue": 1531
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 29,
+        "sensorsecond": 49.306978,
+        "exacttime": "2018-12-16T05:29:49.306Z",
+        "xvalue": 2390,
+        "yvalue": 2032,
+        "zvalue": 1812
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 29,
+        "sensorsecond": 50.298573,
+        "exacttime": "2018-12-16T05:29:50.298Z",
+        "xvalue": 2390,
+        "yvalue": 2024,
+        "zvalue": 1877
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 29,
+        "sensorsecond": 51.338543,
+        "exacttime": "2018-12-16T05:29:51.338Z",
+        "xvalue": 2353,
+        "yvalue": 2048,
+        "zvalue": 1842
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 29,
+        "sensorsecond": 52.325922,
+        "exacttime": "2018-12-16T05:29:52.325Z",
+        "xvalue": 2384,
+        "yvalue": 2022,
+        "zvalue": 1907
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 29,
+        "sensorsecond": 53.302692,
+        "exacttime": "2018-12-16T05:29:53.302Z",
+        "xvalue": 2342,
+        "yvalue": 1967,
+        "zvalue": 1571
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 29,
+        "sensorsecond": 54.306613,
+        "exacttime": "2018-12-16T05:29:54.306Z",
+        "xvalue": 2454,
+        "yvalue": 2014,
+        "zvalue": 1946
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 29,
+        "sensorsecond": 55.301934,
+        "exacttime": "2018-12-16T05:29:55.301Z",
+        "xvalue": 2346,
+        "yvalue": 2060,
+        "zvalue": 1446
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 29,
+        "sensorsecond": 56.307247,
+        "exacttime": "2018-12-16T05:29:56.307Z",
+        "xvalue": 2377,
+        "yvalue": 2031,
+        "zvalue": 1344
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 29,
+        "sensorsecond": 57.320356,
+        "exacttime": "2018-12-16T05:29:57.320Z",
+        "xvalue": 2397,
+        "yvalue": 2030,
+        "zvalue": 1354
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 29,
+        "sensorsecond": 58.303868,
+        "exacttime": "2018-12-16T05:29:58.303Z",
+        "xvalue": 2407,
+        "yvalue": 2029,
+        "zvalue": 1658
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 29,
+        "sensorsecond": 59.321697,
+        "exacttime": "2018-12-16T05:29:59.321Z",
+        "xvalue": 2395,
+        "yvalue": 1985,
+        "zvalue": 1549
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 30,
+        "sensorsecond": 1.713594,
+        "exacttime": "2018-12-16T05:30:01.713Z",
+        "xvalue": 2469,
+        "yvalue": 2010,
+        "zvalue": 1511
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 30,
+        "sensorsecond": 1.749277,
+        "exacttime": "2018-12-16T05:30:01.749Z",
+        "xvalue": 2356,
+        "yvalue": 2030,
+        "zvalue": 1899
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 30,
+        "sensorsecond": 2.317973,
+        "exacttime": "2018-12-16T05:30:02.317Z",
+        "xvalue": 2243,
+        "yvalue": 1899,
+        "zvalue": 1631
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 30,
+        "sensorsecond": 3.306315,
+        "exacttime": "2018-12-16T05:30:03.306Z",
+        "xvalue": 2343,
+        "yvalue": 1920,
+        "zvalue": 1803
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 30,
+        "sensorsecond": 4.307315,
+        "exacttime": "2018-12-16T05:30:04.307Z",
+        "xvalue": 2318,
+        "yvalue": 1918,
+        "zvalue": 1893
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 30,
+        "sensorsecond": 5.348378,
+        "exacttime": "2018-12-16T05:30:05.348Z",
+        "xvalue": 2334,
+        "yvalue": 2035,
+        "zvalue": 1927
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 30,
+        "sensorsecond": 6.641074,
+        "exacttime": "2018-12-16T05:30:06.641Z",
+        "xvalue": 2465,
+        "yvalue": 2017,
+        "zvalue": 1442
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 30,
+        "sensorsecond": 7.354683,
+        "exacttime": "2018-12-16T05:30:07.354Z",
+        "xvalue": 2372,
+        "yvalue": 2043,
+        "zvalue": 1375
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 30,
+        "sensorsecond": 8.321955,
+        "exacttime": "2018-12-16T05:30:08.321Z",
+        "xvalue": 2327,
+        "yvalue": 2061,
+        "zvalue": 1796
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 30,
+        "sensorsecond": 9.329013,
+        "exacttime": "2018-12-16T05:30:09.329Z",
+        "xvalue": 2378,
+        "yvalue": 2029,
+        "zvalue": 1614
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 30,
+        "sensorsecond": 10.32342,
+        "exacttime": "2018-12-16T05:30:10.323Z",
+        "xvalue": 2364,
+        "yvalue": 2021,
+        "zvalue": 1727
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 30,
+        "sensorsecond": 11.315981,
+        "exacttime": "2018-12-16T05:30:11.315Z",
+        "xvalue": 2353,
+        "yvalue": 2015,
+        "zvalue": 1435
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 30,
+        "sensorsecond": 12.328003,
+        "exacttime": "2018-12-16T05:30:12.328Z",
+        "xvalue": 2404,
+        "yvalue": 2046,
+        "zvalue": 1391
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 30,
+        "sensorsecond": 13.337445,
+        "exacttime": "2018-12-16T05:30:13.337Z",
+        "xvalue": 2367,
+        "yvalue": 2124,
+        "zvalue": 1761
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 30,
+        "sensorsecond": 14.320869,
+        "exacttime": "2018-12-16T05:30:14.320Z",
+        "xvalue": 2484,
+        "yvalue": 2073,
+        "zvalue": 1965
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 30,
+        "sensorsecond": 15.321486,
+        "exacttime": "2018-12-16T05:30:15.321Z",
+        "xvalue": 2407,
+        "yvalue": 2066,
+        "zvalue": 1359
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 30,
+        "sensorsecond": 16.325926,
+        "exacttime": "2018-12-16T05:30:16.325Z",
+        "xvalue": 2400,
+        "yvalue": 1871,
+        "zvalue": 1382
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 30,
+        "sensorsecond": 17.354495,
+        "exacttime": "2018-12-16T05:30:17.354Z",
+        "xvalue": 2418,
+        "yvalue": 2069,
+        "zvalue": 1848
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 30,
+        "sensorsecond": 18.311323,
+        "exacttime": "2018-12-16T05:30:18.311Z",
+        "xvalue": 2417,
+        "yvalue": 2012,
+        "zvalue": 1415
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 30,
+        "sensorsecond": 19.32078,
+        "exacttime": "2018-12-16T05:30:19.320Z",
+        "xvalue": 2425,
+        "yvalue": 2101,
+        "zvalue": 1809
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 30,
+        "sensorsecond": 20.316949,
+        "exacttime": "2018-12-16T05:30:20.316Z",
+        "xvalue": 2446,
+        "yvalue": 2074,
+        "zvalue": 1809
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 30,
+        "sensorsecond": 22.136492,
+        "exacttime": "2018-12-16T05:30:22.136Z",
+        "xvalue": 2413,
+        "yvalue": 1998,
+        "zvalue": 1344
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 30,
+        "sensorsecond": 23.665973,
+        "exacttime": "2018-12-16T05:30:23.665Z",
+        "xvalue": 2383,
+        "yvalue": 2077,
+        "zvalue": 1534
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 30,
+        "sensorsecond": 23.692268,
+        "exacttime": "2018-12-16T05:30:23.692Z",
+        "xvalue": 2367,
+        "yvalue": 2005,
+        "zvalue": 1853
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 30,
+        "sensorsecond": 24.329606,
+        "exacttime": "2018-12-16T05:30:24.329Z",
+        "xvalue": 2437,
+        "yvalue": 2206,
+        "zvalue": 1758
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 30,
+        "sensorsecond": 25.321899,
+        "exacttime": "2018-12-16T05:30:25.321Z",
+        "xvalue": 2389,
+        "yvalue": 2070,
+        "zvalue": 1874
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 30,
+        "sensorsecond": 26.330132,
+        "exacttime": "2018-12-16T05:30:26.330Z",
+        "xvalue": 2453,
+        "yvalue": 1986,
+        "zvalue": 1461
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 30,
+        "sensorsecond": 27.321711,
+        "exacttime": "2018-12-16T05:30:27.321Z",
+        "xvalue": 2352,
+        "yvalue": 2047,
+        "zvalue": 1753
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 30,
+        "sensorsecond": 28.319217,
+        "exacttime": "2018-12-16T05:30:28.319Z",
+        "xvalue": 2367,
+        "yvalue": 1992,
+        "zvalue": 1901
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 30,
+        "sensorsecond": 29.358759,
+        "exacttime": "2018-12-16T05:30:29.358Z",
+        "xvalue": 2394,
+        "yvalue": 1977,
+        "zvalue": 1453
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 30,
+        "sensorsecond": 30.336771,
+        "exacttime": "2018-12-16T05:30:30.336Z",
+        "xvalue": 2429,
+        "yvalue": 1947,
+        "zvalue": 1941
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 30,
+        "sensorsecond": 31.320613,
+        "exacttime": "2018-12-16T05:30:31.320Z",
+        "xvalue": 2377,
+        "yvalue": 1979,
+        "zvalue": 1935
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 30,
+        "sensorsecond": 32.361433,
+        "exacttime": "2018-12-16T05:30:32.361Z",
+        "xvalue": 2441,
+        "yvalue": 2109,
+        "zvalue": 1895
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 30,
+        "sensorsecond": 33.334814,
+        "exacttime": "2018-12-16T05:30:33.334Z",
+        "xvalue": 2391,
+        "yvalue": 2062,
+        "zvalue": 1665
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 30,
+        "sensorsecond": 34.349688,
+        "exacttime": "2018-12-16T05:30:34.349Z",
+        "xvalue": 2432,
+        "yvalue": 2030,
+        "zvalue": 1808
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 30,
+        "sensorsecond": 35.327631,
+        "exacttime": "2018-12-16T05:30:35.327Z",
+        "xvalue": 2350,
+        "yvalue": 1965,
+        "zvalue": 1400
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 30,
+        "sensorsecond": 36.336573,
+        "exacttime": "2018-12-16T05:30:36.336Z",
+        "xvalue": 2307,
+        "yvalue": 2028,
+        "zvalue": 1562
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 30,
+        "sensorsecond": 37.400553,
+        "exacttime": "2018-12-16T05:30:37.400Z",
+        "xvalue": 2402,
+        "yvalue": 2061,
+        "zvalue": 1914
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 30,
+        "sensorsecond": 38.336254,
+        "exacttime": "2018-12-16T05:30:38.336Z",
+        "xvalue": 2362,
+        "yvalue": 2046,
+        "zvalue": 1361
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 30,
+        "sensorsecond": 39.319728,
+        "exacttime": "2018-12-16T05:30:39.319Z",
+        "xvalue": 2431,
+        "yvalue": 2037,
+        "zvalue": 1409
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 30,
+        "sensorsecond": 40.357591,
+        "exacttime": "2018-12-16T05:30:40.357Z",
+        "xvalue": 2371,
+        "yvalue": 1914,
+        "zvalue": 1475
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 30,
+        "sensorsecond": 41.330425,
+        "exacttime": "2018-12-16T05:30:41.330Z",
+        "xvalue": 2398,
+        "yvalue": 2028,
+        "zvalue": 1538
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 30,
+        "sensorsecond": 42.361648,
+        "exacttime": "2018-12-16T05:30:42.361Z",
+        "xvalue": 2414,
+        "yvalue": 2002,
+        "zvalue": 1345
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 30,
+        "sensorsecond": 43.362406,
+        "exacttime": "2018-12-16T05:30:43.362Z",
+        "xvalue": 2407,
+        "yvalue": 1907,
+        "zvalue": 1677
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 30,
+        "sensorsecond": 44.346477,
+        "exacttime": "2018-12-16T05:30:44.346Z",
+        "xvalue": 2463,
+        "yvalue": 2076,
+        "zvalue": 1936
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 30,
+        "sensorsecond": 45.335915,
+        "exacttime": "2018-12-16T05:30:45.335Z",
+        "xvalue": 2392,
+        "yvalue": 2140,
+        "zvalue": 1722
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 30,
+        "sensorsecond": 46.339124,
+        "exacttime": "2018-12-16T05:30:46.339Z",
+        "xvalue": 2502,
+        "yvalue": 2068,
+        "zvalue": 1448
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 30,
+        "sensorsecond": 47.359777,
+        "exacttime": "2018-12-16T05:30:47.359Z",
+        "xvalue": 2539,
+        "yvalue": 2020,
+        "zvalue": 1935
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 30,
+        "sensorsecond": 48.340042,
+        "exacttime": "2018-12-16T05:30:48.340Z",
+        "xvalue": 2436,
+        "yvalue": 1969,
+        "zvalue": 1830
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 30,
+        "sensorsecond": 49.336307,
+        "exacttime": "2018-12-16T05:30:49.336Z",
+        "xvalue": 2438,
+        "yvalue": 1913,
+        "zvalue": 1889
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 30,
+        "sensorsecond": 50.341887,
+        "exacttime": "2018-12-16T05:30:50.341Z",
+        "xvalue": 2373,
+        "yvalue": 1983,
+        "zvalue": 1374
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 30,
+        "sensorsecond": 51.382359,
+        "exacttime": "2018-12-16T05:30:51.382Z",
+        "xvalue": 2488,
+        "yvalue": 2067,
+        "zvalue": 1420
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 30,
+        "sensorsecond": 52.355954,
+        "exacttime": "2018-12-16T05:30:52.355Z",
+        "xvalue": 2438,
+        "yvalue": 2010,
+        "zvalue": 1893
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 30,
+        "sensorsecond": 53.346243,
+        "exacttime": "2018-12-16T05:30:53.346Z",
+        "xvalue": 2485,
+        "yvalue": 1934,
+        "zvalue": 1578
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 30,
+        "sensorsecond": 54.342255,
+        "exacttime": "2018-12-16T05:30:54.342Z",
+        "xvalue": 2412,
+        "yvalue": 2060,
+        "zvalue": 1350
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 30,
+        "sensorsecond": 55.343999,
+        "exacttime": "2018-12-16T05:30:55.343Z",
+        "xvalue": 2410,
+        "yvalue": 1969,
+        "zvalue": 1366
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 30,
+        "sensorsecond": 56.350197,
+        "exacttime": "2018-12-16T05:30:56.350Z",
+        "xvalue": 2407,
+        "yvalue": 2074,
+        "zvalue": 1559
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 30,
+        "sensorsecond": 57.347604,
+        "exacttime": "2018-12-16T05:30:57.347Z",
+        "xvalue": 2430,
+        "yvalue": 2033,
+        "zvalue": 1362
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 30,
+        "sensorsecond": 58.358657,
+        "exacttime": "2018-12-16T05:30:58.358Z",
+        "xvalue": 2443,
+        "yvalue": 2041,
+        "zvalue": 1537
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 30,
+        "sensorsecond": 59.355895,
+        "exacttime": "2018-12-16T05:30:59.355Z",
+        "xvalue": 2375,
+        "yvalue": 2057,
+        "zvalue": 1872
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 31,
+        "sensorsecond": 0.360136,
+        "exacttime": "2018-12-16T05:31:00.360Z",
+        "xvalue": 2386,
+        "yvalue": 1993,
+        "zvalue": 1889
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 31,
+        "sensorsecond": 1.35115,
+        "exacttime": "2018-12-16T05:31:01.351Z",
+        "xvalue": 2397,
+        "yvalue": 2029,
+        "zvalue": 1900
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 31,
+        "sensorsecond": 2.357524,
+        "exacttime": "2018-12-16T05:31:02.357Z",
+        "xvalue": 2392,
+        "yvalue": 2076,
+        "zvalue": 1750
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 31,
+        "sensorsecond": 3.400922,
+        "exacttime": "2018-12-16T05:31:03.400Z",
+        "xvalue": 2418,
+        "yvalue": 1958,
+        "zvalue": 1917
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 31,
+        "sensorsecond": 4.34737,
+        "exacttime": "2018-12-16T05:31:04.347Z",
+        "xvalue": 2378,
+        "yvalue": 1980,
+        "zvalue": 1456
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 31,
+        "sensorsecond": 5.364519,
+        "exacttime": "2018-12-16T05:31:05.364Z",
+        "xvalue": 2409,
+        "yvalue": 1994,
+        "zvalue": 1863
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 31,
+        "sensorsecond": 6.362041,
+        "exacttime": "2018-12-16T05:31:06.362Z",
+        "xvalue": 2409,
+        "yvalue": 1955,
+        "zvalue": 1403
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 31,
+        "sensorsecond": 7.390552,
+        "exacttime": "2018-12-16T05:31:07.390Z",
+        "xvalue": 2338,
+        "yvalue": 1975,
+        "zvalue": 1650
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 31,
+        "sensorsecond": 8.361128,
+        "exacttime": "2018-12-16T05:31:08.361Z",
+        "xvalue": 2381,
+        "yvalue": 1975,
+        "zvalue": 1402
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 31,
+        "sensorsecond": 9.352044,
+        "exacttime": "2018-12-16T05:31:09.352Z",
+        "xvalue": 2330,
+        "yvalue": 1981,
+        "zvalue": 1363
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 31,
+        "sensorsecond": 10.360082,
+        "exacttime": "2018-12-16T05:31:10.360Z",
+        "xvalue": 2303,
+        "yvalue": 1941,
+        "zvalue": 1762
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 31,
+        "sensorsecond": 11.353975,
+        "exacttime": "2018-12-16T05:31:11.353Z",
+        "xvalue": 2428,
+        "yvalue": 2058,
+        "zvalue": 1555
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 31,
+        "sensorsecond": 12.369933,
+        "exacttime": "2018-12-16T05:31:12.369Z",
+        "xvalue": 2430,
+        "yvalue": 2000,
+        "zvalue": 1917
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 31,
+        "sensorsecond": 13.392295,
+        "exacttime": "2018-12-16T05:31:13.392Z",
+        "xvalue": 2450,
+        "yvalue": 2030,
+        "zvalue": 1776
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 31,
+        "sensorsecond": 14.371288,
+        "exacttime": "2018-12-16T05:31:14.371Z",
+        "xvalue": 2399,
+        "yvalue": 1997,
+        "zvalue": 1421
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 31,
+        "sensorsecond": 15.368907,
+        "exacttime": "2018-12-16T05:31:15.368Z",
+        "xvalue": 2441,
+        "yvalue": 2017,
+        "zvalue": 1514
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 31,
+        "sensorsecond": 16.352085,
+        "exacttime": "2018-12-16T05:31:16.352Z",
+        "xvalue": 2415,
+        "yvalue": 2030,
+        "zvalue": 1894
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 31,
+        "sensorsecond": 17.380959,
+        "exacttime": "2018-12-16T05:31:17.380Z",
+        "xvalue": 2393,
+        "yvalue": 2043,
+        "zvalue": 1952
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 31,
+        "sensorsecond": 18.361001,
+        "exacttime": "2018-12-16T05:31:18.361Z",
+        "xvalue": 2291,
+        "yvalue": 2084,
+        "zvalue": 1684
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 31,
+        "sensorsecond": 19.385682,
+        "exacttime": "2018-12-16T05:31:19.385Z",
+        "xvalue": 2425,
+        "yvalue": 2041,
+        "zvalue": 1503
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 31,
+        "sensorsecond": 20.361307,
+        "exacttime": "2018-12-16T05:31:20.361Z",
+        "xvalue": 2465,
+        "yvalue": 2025,
+        "zvalue": 1891
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 31,
+        "sensorsecond": 21.37276,
+        "exacttime": "2018-12-16T05:31:21.372Z",
+        "xvalue": 2379,
+        "yvalue": 1957,
+        "zvalue": 1652
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 31,
+        "sensorsecond": 22.365133,
+        "exacttime": "2018-12-16T05:31:22.365Z",
+        "xvalue": 2434,
+        "yvalue": 1967,
+        "zvalue": 1409
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 31,
+        "sensorsecond": 24.305627,
+        "exacttime": "2018-12-16T05:31:24.305Z",
+        "xvalue": 2419,
+        "yvalue": 2264,
+        "zvalue": 1887
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 31,
+        "sensorsecond": 24.377435,
+        "exacttime": "2018-12-16T05:31:24.377Z",
+        "xvalue": 2412,
+        "yvalue": 2093,
+        "zvalue": 1802
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 31,
+        "sensorsecond": 26.012593,
+        "exacttime": "2018-12-16T05:31:26.012Z",
+        "xvalue": 2409,
+        "yvalue": 2075,
+        "zvalue": 1380
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 31,
+        "sensorsecond": 26.384274,
+        "exacttime": "2018-12-16T05:31:26.384Z",
+        "xvalue": 2427,
+        "yvalue": 2112,
+        "zvalue": 1378
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 31,
+        "sensorsecond": 27.358507,
+        "exacttime": "2018-12-16T05:31:27.358Z",
+        "xvalue": 2463,
+        "yvalue": 2090,
+        "zvalue": 1430
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 31,
+        "sensorsecond": 29.563896,
+        "exacttime": "2018-12-16T05:31:29.563Z",
+        "xvalue": 2331,
+        "yvalue": 2064,
+        "zvalue": 1924
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 31,
+        "sensorsecond": 29.586018,
+        "exacttime": "2018-12-16T05:31:29.586Z",
+        "xvalue": 2455,
+        "yvalue": 1953,
+        "zvalue": 1936
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 31,
+        "sensorsecond": 30.396435,
+        "exacttime": "2018-12-16T05:31:30.396Z",
+        "xvalue": 2455,
+        "yvalue": 2001,
+        "zvalue": 1959
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 31,
+        "sensorsecond": 31.663828,
+        "exacttime": "2018-12-16T05:31:31.663Z",
+        "xvalue": 2502,
+        "yvalue": 2085,
+        "zvalue": 1953
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 31,
+        "sensorsecond": 32.359481,
+        "exacttime": "2018-12-16T05:31:32.359Z",
+        "xvalue": 2390,
+        "yvalue": 1874,
+        "zvalue": 1364
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 31,
+        "sensorsecond": 33.365583,
+        "exacttime": "2018-12-16T05:31:33.365Z",
+        "xvalue": 2446,
+        "yvalue": 2048,
+        "zvalue": 1947
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 31,
+        "sensorsecond": 34.371732,
+        "exacttime": "2018-12-16T05:31:34.371Z",
+        "xvalue": 2323,
+        "yvalue": 1959,
+        "zvalue": 1460
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 31,
+        "sensorsecond": 35.370051,
+        "exacttime": "2018-12-16T05:31:35.370Z",
+        "xvalue": 2462,
+        "yvalue": 1960,
+        "zvalue": 1950
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 31,
+        "sensorsecond": 36.364033,
+        "exacttime": "2018-12-16T05:31:36.364Z",
+        "xvalue": 2343,
+        "yvalue": 2012,
+        "zvalue": 1827
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 31,
+        "sensorsecond": 37.364545,
+        "exacttime": "2018-12-16T05:31:37.364Z",
+        "xvalue": 2371,
+        "yvalue": 2069,
+        "zvalue": 1914
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 31,
+        "sensorsecond": 38.399629,
+        "exacttime": "2018-12-16T05:31:38.399Z",
+        "xvalue": 2345,
+        "yvalue": 1975,
+        "zvalue": 1838
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 31,
+        "sensorsecond": 39.400737,
+        "exacttime": "2018-12-16T05:31:39.400Z",
+        "xvalue": 2385,
+        "yvalue": 2048,
+        "zvalue": 1368
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 31,
+        "sensorsecond": 40.390681,
+        "exacttime": "2018-12-16T05:31:40.390Z",
+        "xvalue": 2398,
+        "yvalue": 1984,
+        "zvalue": 1392
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 31,
+        "sensorsecond": 41.365536,
+        "exacttime": "2018-12-16T05:31:41.365Z",
+        "xvalue": 2384,
+        "yvalue": 2068,
+        "zvalue": 1440
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 31,
+        "sensorsecond": 42.361448,
+        "exacttime": "2018-12-16T05:31:42.361Z",
+        "xvalue": 2395,
+        "yvalue": 2047,
+        "zvalue": 1797
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 31,
+        "sensorsecond": 43.376697,
+        "exacttime": "2018-12-16T05:31:43.376Z",
+        "xvalue": 2357,
+        "yvalue": 2071,
+        "zvalue": 1348
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 31,
+        "sensorsecond": 44.383552,
+        "exacttime": "2018-12-16T05:31:44.383Z",
+        "xvalue": 2412,
+        "yvalue": 2026,
+        "zvalue": 1393
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 31,
+        "sensorsecond": 45.41411,
+        "exacttime": "2018-12-16T05:31:45.414Z",
+        "xvalue": 2426,
+        "yvalue": 2193,
+        "zvalue": 1683
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 31,
+        "sensorsecond": 46.601524,
+        "exacttime": "2018-12-16T05:31:46.601Z",
+        "xvalue": 2349,
+        "yvalue": 2064,
+        "zvalue": 1600
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 31,
+        "sensorsecond": 47.406731,
+        "exacttime": "2018-12-16T05:31:47.406Z",
+        "xvalue": 2382,
+        "yvalue": 2143,
+        "zvalue": 1527
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 31,
+        "sensorsecond": 48.37729,
+        "exacttime": "2018-12-16T05:31:48.377Z",
+        "xvalue": 2404,
+        "yvalue": 2067,
+        "zvalue": 1806
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 31,
+        "sensorsecond": 49.379264,
+        "exacttime": "2018-12-16T05:31:49.379Z",
+        "xvalue": 2439,
+        "yvalue": 2024,
+        "zvalue": 1912
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 31,
+        "sensorsecond": 50.373572,
+        "exacttime": "2018-12-16T05:31:50.373Z",
+        "xvalue": 2395,
+        "yvalue": 2012,
+        "zvalue": 1956
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 31,
+        "sensorsecond": 51.380914,
+        "exacttime": "2018-12-16T05:31:51.380Z",
+        "xvalue": 2403,
+        "yvalue": 2206,
+        "zvalue": 1923
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 31,
+        "sensorsecond": 52.380432,
+        "exacttime": "2018-12-16T05:31:52.380Z",
+        "xvalue": 2298,
+        "yvalue": 2090,
+        "zvalue": 1802
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 31,
+        "sensorsecond": 53.375281,
+        "exacttime": "2018-12-16T05:31:53.375Z",
+        "xvalue": 2369,
+        "yvalue": 2057,
+        "zvalue": 1450
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 31,
+        "sensorsecond": 54.394291,
+        "exacttime": "2018-12-16T05:31:54.394Z",
+        "xvalue": 2413,
+        "yvalue": 2007,
+        "zvalue": 1445
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 31,
+        "sensorsecond": 55.374544,
+        "exacttime": "2018-12-16T05:31:55.374Z",
+        "xvalue": 2298,
+        "yvalue": 2007,
+        "zvalue": 1359
+    },
+    {
+        "sensorday": 16,
+        "sensorminute": 31,
+        "sensorsecond": 56.383337,
+        "exacttime": "2018-12-16T05:31:56.383Z",
+        "xvalue": 2412,
+        "yvalue": 1973,
+        "zvalue": 1359
+    }
+]
