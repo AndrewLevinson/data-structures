@@ -2,18 +2,7 @@ const express = require("express"), // npm install express
   app = express();
 const fs = require("fs");
 const csv = require("csv-parser");
-
-// const { Pool } = require("pg");
-// const AWS = require("aws-sdk");
 const moment = require("moment-timezone"); // moment-timezone --save
-
-// AWS RDS credentials
-var db_credentials = new Object();
-db_credentials.user = "andrewL";
-db_credentials.host = process.env.AWSRDS_EP;
-db_credentials.database = "mydatabase";
-db_credentials.password = process.env.AWSRDS_PW;
-db_credentials.port = 5432;
 
 var s1x = `<!DOCTYPE html>
 <head>
@@ -474,55 +463,17 @@ console.log(data);
     </body>
     </html>`;
 
+// code to get local csv file (not using AWS DynamoDB since it shut down to save cost. copied data as csv)
 const results = [];
 app.get("/deardiary", function(req, res) {
   fs.createReadStream("data-static/deardiaryrevised.csv")
     .pipe(csv())
     .on("data", data => results.push(data))
     .on("end", () => {
-      //   console.log(JSON.stringify(results));
       var resp = oneDD + JSON.stringify(results) + twoDD;
       res.send(resp);
     });
 });
-// respond to requests for /deardiary
-// app.get("/deardiary", function(req, res) {
-//   // AWS DynamoDB credentials
-//   AWS.config = new AWS.Config();
-//   AWS.config.accessKeyId = process.env.AWS_ID;
-//   AWS.config.secretAccessKey = process.env.AWS_KEY;
-//   AWS.config.region = "us-east-1";
-
-//   // Connect to the AWS DynamoDB database
-//   var dynamodb = new AWS.DynamoDB();
-
-//   // DynamoDB (NoSQL) query
-//   // because i want to return ALL results I am using a scan instead of a query
-//   var params = {
-//     TableName: "deardiaryrevised"
-//     // KeyConditionExpression: "#tp = :topicName", // the query expression
-//     // ExpressionAttributeNames: {
-//     //   // name substitution, used for reserved words in DynamoDB
-//     //   "#tp": "tag"
-//     // },
-//     // ExpressionAttributeValues: {
-//     //   // the query values
-//     //   ":topicName": { S: "coding" }
-//     // }
-//   };
-
-//   dynamodb.scan(params, function(err, data) {
-//     if (err) {
-//       console.error("Unable to query. Error:", JSON.stringify(err, null, 2));
-//     } else {
-//       var resp = oneDD + JSON.stringify(data.Items) + twoDD;
-//       //   res.send(data.Items);
-//       res.send(resp);
-
-//       console.log("3) responded to request for dear diary data");
-//     }
-//   });
-// });
 
 // create templates
 var hx = `<!doctype html>
@@ -651,7 +602,7 @@ var jx = `;
     </body>
     </html>`;
 
-// respond to requests for /aameetings
+// AA code to get local file (not using AWS since it shut down to save cost. copied data as JSON)
 app.get("/aa", function(req, res) {
   var now = moment.tz(Date.now(), "America/New_York");
   var dayy = now.day().toString();
@@ -693,5 +644,5 @@ app.use(express.static("public"));
 
 // listen on port 8080
 app.listen(8080, function() {
-  console.log("Server listening...");
+  console.log("Server listening on 8080...");
 });

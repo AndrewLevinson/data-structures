@@ -1,0 +1,5 @@
+{
+  "version": 2,
+  "name": "data-structures-finals-static-rebuild",
+  "builds": [{ "src": "index.js", "use": "@now/node-server" }]
+}
